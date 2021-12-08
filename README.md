@@ -22,22 +22,22 @@
 ### 6] 
 ----
 
-<p align="center"><img src="https://github.com/Darken-Pasiya/Files/blob/main/Screenshot_20211128_162201.jpg" alt="Bt">
+<p align="center"><img src="https://github.com/Darken-Pasiya/Files/blob/main/scc.jpg" alt="Bt">
+
+<p align="center"><img src="https://github.com/Darken-Pasiya/Files/blob/main/scc.jpg" alt="Bt">
 
 ## Commands
 
-`❄️ pkg update && pkg upgrade`
+`🎃 pkg update && pkg upgrade`
 
-`❄️ pkg install git`
+`🎃 pkg install git`
 
-`❄️ git clone https://github.com/Darken-Pasiya/Pro-Banner`
+`🎃 git clone https://github.com/Darken-Pasiya/Contact-Me`
 
-`❄️ cd Pro-Banner`
+`🎃 cd Contact-Me`
 
-`❄️ chmod +x banner.sh`
+`🎃 bash req.sh`
 
-`❄️ bash req.sh`
-
-`❄️ bash banner.sh`
+`🎃 Contact `
 
 ----
