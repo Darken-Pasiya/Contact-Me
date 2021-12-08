@@ -15,7 +15,7 @@
 ### 3] Create Wa. Group Forwed Link
 
 ### 4] Create Custom Domain Link
-#### usful for hide phishing links
+ usful for hide phishing links
 
 ### 5] Short Any Url
 
