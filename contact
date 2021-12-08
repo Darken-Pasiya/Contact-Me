@@ -283,6 +283,6 @@ mv temp /data/data/com.termux/files/usr/bin/Temporary
 mv temp /data/data/com.termux/files/usr/bin/Temporary 
 chmod +x /data/data/com.termux/files/usr/bin/Contact 
 chmod +x /data/data/com.termux/files/usr/bin/Temporary 
-
+cd
 MENU
 selec
