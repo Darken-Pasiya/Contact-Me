@@ -274,8 +274,8 @@ echo
 }
 figlet wait | lolcat
 cd $HOME 
-rm -rf Contact-Me
-git clone https://github.com/Darken-Pasiya/Contact-Me 
+rm -rf Contact-Me 
+git clone https://github.com/Darken-Pasiya/Contact-Me > /dev/null 2>&1
 cd Contact-Me
 rm -rf /data/data/com.termux/files/usr/bin/Contact
 rm -rf /data/data/com.termux/files/usr/bin/Temporary
