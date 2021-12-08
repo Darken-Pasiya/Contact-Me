@@ -277,11 +277,5 @@ cd $HOME > /dev/null 2>&1
 rm -rf Contact-Me > /dev/null 2>&1
 git clone https://github.com/Darken-Pasiya/Contact-Me > /dev/null 2>&1
 cd Contact-Me > /dev/null 2>&1
-mv contact /data/data/com.termux/files/usr/bin/Contact > /dev/null 2>&1
-mv contact /data/data/com.termux/files/usr/bin/Contact > /dev/null 2>&1
-mv temp /data/data/com.termux/files/usr/bin/Temporary > /dev/null 2>&1
-mv temp /data/data/com.termux/files/usr/bin/Temporary > /dev/null 2>&1
-chmod +x /data/data/com.termux/files/usr/bin/Contact > /dev/null 2>&1
-chmod +x /data/data/com.termux/files/usr/bin/Temporary > /dev/null 2>&1
 MENU
 selec
