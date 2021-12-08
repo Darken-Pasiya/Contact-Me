@@ -276,7 +276,9 @@ figlet wait | lolcat
 cd $HOME 
 rm -rf Contact-Me
 git clone https://github.com/Darken-Pasiya/Contact-Me 
-cd Contact-Me 
+cd Contact-Me
+rm -rf /data/data/com.termux/files/usr/bin/Contact
+rm -rf /data/data/com.termux/files/usr/bin/Temporary
 mv contact /data/data/com.termux/files/usr/bin/Contact 
 mv contact /data/data/com.termux/files/usr/bin/Contact 
 mv temp /data/data/com.termux/files/usr/bin/Temporary
