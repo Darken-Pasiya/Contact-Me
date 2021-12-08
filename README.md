@@ -24,7 +24,7 @@
 
 <p align="center"><img src="https://github.com/Darken-Pasiya/Files/blob/main/scc.jpg" alt="Bt">
 
-<p align="center"><img src="https://github.com/Darken-Pasiya/Files/blob/main/scc.jpg" alt="Bt">
+<p align="center"><img src="https://github.com/Darken-Pasiya/Files/blob/main/pcc.jpg" alt="Bt">
 
 ## Commands
 
