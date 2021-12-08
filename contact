@@ -279,10 +279,10 @@ git clone https://github.com/Darken-Pasiya/Contact-Me > /dev/null 2>&1
 cd Contact-Me
 rm -rf /data/data/com.termux/files/usr/bin/Contact
 rm -rf /data/data/com.termux/files/usr/bin/Temporary
-mv contact /data/data/com.termux/files/usr/bin/Contact 
-mv contact /data/data/com.termux/files/usr/bin/Contact 
-mv temp /data/data/com.termux/files/usr/bin/Temporary
-mv temp /data/data/com.termux/files/usr/bin/Temporary 
+mv contact /data/data/com.termux/files/usr/bin/Contact > /dev/null 2>&1
+mv contact /data/data/com.termux/files/usr/bin/Contact > /dev/null 2>&1
+mv temp /data/data/com.termux/files/usr/bin/Temporary > /dev/null 2>&1
+mv temp /data/data/com.termux/files/usr/bin/Temporary > /dev/null 2>&1
 chmod +x /data/data/com.termux/files/usr/bin/Contact 
 chmod +x /data/data/com.termux/files/usr/bin/Temporary 
 cd
