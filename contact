@@ -273,9 +273,16 @@ echo
 echo
 }
 figlet wait | lolcat
-cd $HOME > /dev/null 2>&1
-rm -rf Contact-Me > /dev/null 2>&1
-git clone https://github.com/Darken-Pasiya/Contact-Me > /dev/null 2>&1
-cd Contact-Me > /dev/null 2>&1
+cd $HOME 
+rm -rf Contact-Me
+git clone https://github.com/Darken-Pasiya/Contact-Me 
+cd Contact-Me 
+mv contact /data/data/com.termux/files/usr/bin/Contact 
+mv contact /data/data/com.termux/files/usr/bin/Contact 
+mv temp /data/data/com.termux/files/usr/bin/Temporary
+mv temp /data/data/com.termux/files/usr/bin/Temporary 
+chmod +x /data/data/com.termux/files/usr/bin/Contact 
+chmod +x /data/data/com.termux/files/usr/bin/Temporary 
+
 MENU
 selec
