@@ -272,7 +272,7 @@ echo -e "\e[1;36m Type \e[1;33mTemporary \e[1;36mAnd Press Enter For Run"
 echo
 echo
 }
-figlet -c wait | lolcat
+figlet wait | lolcat
 cd $HOME > /dev/null 2>&1
 rm -rf Contact-Me > /dev/null 2>&1
 git clone https://github.com/Darken-Pasiya/Contact-Me > /dev/null 2>&1
