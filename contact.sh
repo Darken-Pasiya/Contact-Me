@@ -1,0 +1,1 @@
+bash .clash.sh
