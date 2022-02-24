@@ -22,9 +22,9 @@
 ### 6] 
 ----
 
-<p align="center"><img src="https://github.com/Darken-Pasiya/Files/blob/main/scc.jpg" alt="Bt">
+<p align="center"><img src="https://github.com/Darken-Pasiya/Files/blob/main/contactme.jpg" alt="Bt">
 
-<p align="center"><img src="https://github.com/Darken-Pasiya/Files/blob/main/pcc.jpg" alt="Bt">
+<p align="center"><img src="https://github.com/Darken-Pasiya/Files/blob/main/tempmail.jpg" alt="Bt">
 
 ## Commands
 
