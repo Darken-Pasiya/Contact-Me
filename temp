@@ -38,7 +38,7 @@ def get_random(digit):
 	return "".join(dig), random.choice(list_mail)
 
 def animate(teks):
-	lis = list("9876543210")
+	lis = list("543210")
 	for cy in lis:
 		print("\r\033[1;34m[\033[1;33m"+cy+"\033[1;34m] "+str(teks)+"\033[1;34m[\033[1;33m"+cy+"\033[1;34m]", end="")
 		sleep(1)
